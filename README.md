@@ -1,2 +1,2 @@
 # math
-math using python to learn equation multiply and more ....
+math using python to learn equation multiply and more 
